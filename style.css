@@ -1,0 +1,26 @@
+body{
+    background-color: #C6E0EC;
+    font-size: 150%;
+}
+h2{
+    background-color:#3C8CAF ;
+}
+h3{
+    color: white;
+    background-color: #79B8D2
+}
+header{
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 2%;
+}
+pre{
+    background-color: white;
+}
+blockquote{
+    font-size: 80%;
+}
+footer{
+    font-size: 75%;
+    text-align: right;
+}
